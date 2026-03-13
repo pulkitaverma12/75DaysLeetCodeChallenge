@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
