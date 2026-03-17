@@ -1,25 +1,26 @@
 class Solution {
 public:
     int largestSubmatrix(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-        vector<int> height(n,0);
-        int maxArea = 0;
-        for(int i = 0 ; i<m; i++){
-            for(int j = 0; j< n ;j++){
-                if(matrix[i][j] == 0){
-                    height[j] = 0;
-                }
+        int n = matrix.size(), m = matrix[0].size();
+        for(int j = 0; j < m; j++){
+            int sum = 0;
+            for(int i = 0 ; i < n ; i++){
+                if(matrix[i][j] == 0 ) sum=0;
                 else{
-                    height[j] += 1;
-                }
-            }
-            vector<int> sorth = height;
-            sort(sorth.begin(), sorth.end(), greater<int>());
-            for(int j = 0; j < n; j++) {
-                maxArea = max(maxArea, sorth[j] * (j + 1));
+                    sum++;
+                    matrix[i][j] = sum;
+                } 
             }
         }
-        return maxArea;
+        int res = 0;
+        for(int i = 0 ; i < n; i++){
+            sort(matrix[i].begin(), matrix[i].end(), greater<>());
+            int minv=INT_MAX;
+            for(int j = 0 ; j < m; j++){
+                minv = min(minv, matrix[i][j]);
+                res = max(res, (j+1)*minv);
+            }
+        }
+        return res;
     }
 };
