@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2751-robot-collisions](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Queue
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
