@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
