@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
