@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [2615-sum-of-distances](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Simulation
 |  |
 | ------- |
