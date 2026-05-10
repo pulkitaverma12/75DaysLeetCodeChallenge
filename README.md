@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 ## Number Theory
 |  |
