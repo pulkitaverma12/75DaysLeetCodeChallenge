@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -495,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
