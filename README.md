@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1306-jump-game-iii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0874-walking-robot-simulation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
