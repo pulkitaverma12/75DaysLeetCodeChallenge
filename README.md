@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
