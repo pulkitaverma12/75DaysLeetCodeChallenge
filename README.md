@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Number Theory
