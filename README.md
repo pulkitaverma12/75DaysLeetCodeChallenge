@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
@@ -677,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
