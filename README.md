@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Number Theory
