@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
