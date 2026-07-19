@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Queue
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
