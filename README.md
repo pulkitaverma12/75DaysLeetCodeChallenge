@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
