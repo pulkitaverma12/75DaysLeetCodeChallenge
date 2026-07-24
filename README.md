@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
