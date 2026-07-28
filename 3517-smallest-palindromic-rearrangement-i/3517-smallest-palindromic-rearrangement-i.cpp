@@ -1,12 +1,12 @@
 class Solution {
 public:
-    string smallestPalindrome(string s) {
-        int n = s.length();
+    string smallestPalindrome(string st) {
+        int n = st.length();
         int m = n/2;
-        sort(begin(s),begin(s) + m);
+        sort(begin(st),begin(st) + m);
         for(int i = 0;i<m;i++){
-            s[n - i -1] = s[i];
+            st[n - i -1] = st[i];
         }
-        return s;
+        return st;
     }
 };
