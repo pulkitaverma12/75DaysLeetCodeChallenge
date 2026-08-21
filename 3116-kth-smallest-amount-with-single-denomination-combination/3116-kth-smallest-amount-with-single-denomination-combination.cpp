@@ -1,82 +1,82 @@
 class Solution {
 public:
-    using int64 = long long;
-    using i128 = __int128_t;
-
-    long long gcdll(long long a, long long b) {
-        while (b) {
-            long long t = a % b;
-            a = b;
-            b = t;
-        }
-        return a;
-    }
-
-    long long lcmLimit(long long a, long long b, long long limit) {
-        long long g = gcdll(a, b);
-        i128 res = (i128)(a / g) * b;
-        if (res > limit) return limit + 1;
-        return (long long)res;
-    }
-
     long long findKthSmallest(vector<int>& coins, int k) {
         sort(coins.begin(), coins.end());
-        coins.erase(unique(coins.begin(), coins.end()), coins.end());
 
-        // Remove redundant denominations.
-        vector<long long> c;
-        for (int x : coins) {
-            bool keep = true;
-            for (long long y : c) {
-                if (x % y == 0) {
-                    keep = false;
+        vector<long long> useful;
+
+        for (int coin : coins) {
+            bool redundant = false;
+
+            for (long long prev : useful) {
+                if (coin % prev == 0) {
+                    redundant = true;
                     break;
                 }
             }
-            if (keep) c.push_back(x);
+
+            if (!redundant) {
+                useful.push_back(coin);
+            }
         }
 
-        int n = c.size();
+        long long high = useful[0] * 1LL * k;
+        long long low = 1;
+
+        int m = useful.size();
+        int totalMasks = 1 << m;
+
+        vector<long long> lcms(totalMasks, 1);
+
+        vector<int> signs(totalMasks, 1);
+
+        for (int mask = 1; mask < totalMasks; ++mask) {
+            long long currentLCM = 1;
+            int bits = 0;
+
+            for (int i = 0; i < m; ++i) {
+                if (mask & (1 << i)) {
+                    long long g = std::gcd(currentLCM, useful[i]);
+
+                    currentLCM = currentLCM / g;
+
+                    if (currentLCM > high / useful[i]) {
+                        currentLCM = high + 1;
+                        break;
+                    }
+
+                    currentLCM *= useful[i];
+                    ++bits;
+                }
+            }
+
+            lcms[mask] = currentLCM;
+
+            signs[mask] = (bits % 2 == 1) ? 1 : -1;
+        }
 
         auto count = [&](long long x) {
-            long long ans = 0;
-            int total = 1 << n;
+            long long result = 0;
 
-            for (int mask = 1; mask < total; mask++) {
-                long long l = 1;
-                bool ok = true;
-
-                for (int i = 0; i < n; i++) {
-                    if (mask & (1 << i)) {
-                        l = lcmLimit(l, c[i], x);
-                        if (l > x) {
-                            ok = false;
-                            break;
-                        }
-                    }
+            for (int mask = 1; mask < totalMasks; ++mask) {
+                if (lcms[mask] <= x) {
+                    result += signs[mask] * (x / lcms[mask]);
                 }
-
-                if (!ok) continue;
-
-                if (__builtin_popcount(mask) & 1)
-                    ans += x / l;
-                else
-                    ans -= x / l;
             }
-            return ans;
+
+            return result;
         };
 
-        long long lo = 1, hi = 1;
-        while (count(hi) < k) hi <<= 1;
+        while (low < high) {
+            long long mid = low + (high - low) / 2;
 
-        while (lo < hi) {
-            long long mid = lo + (hi - lo) / 2;
-            if (count(mid) >= k)
-                hi = mid;
-            else
-                lo = mid + 1;
+            if (count(mid) >= k) {
+                high = mid;
+            } else {
+                low = mid + 1;
+            }
         }
 
-        return lo;
+        return low;
     }
 };
