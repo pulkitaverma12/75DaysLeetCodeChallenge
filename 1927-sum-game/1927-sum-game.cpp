@@ -10,6 +10,7 @@ public:
             } else {
                 sign = -1;
             }
+            
             double value;
             if (s[i] == '?') {
                 value = 4.5;
