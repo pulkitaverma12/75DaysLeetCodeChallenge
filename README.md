@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1026,17 +1030,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
