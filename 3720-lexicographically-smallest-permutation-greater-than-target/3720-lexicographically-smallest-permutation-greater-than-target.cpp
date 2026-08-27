@@ -7,14 +7,12 @@ public:
         }
         int n = s.size();
         int matched = 0;
-
         while (matched < n && count[target[matched] - 'a'] > 0) {
             count[target[matched] - 'a']--;
             matched++;
         }
-
+        // tr
         int start = (matched < n ? matched : n - 1);
-
         for (int i = start; i >= 0; i--) {
             if (i < matched) {
                 count[target[i] - 'a']++;
