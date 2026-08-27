@@ -5,7 +5,6 @@ public:
         for (char ch : s) {
             count[ch - 'a']++;
         }
-
         int n = s.size();
         int matched = 0;
 
