@@ -4,7 +4,6 @@ public:
         int sum = 0;
         for (int i = 0; i < s.length(); i++) {
             char c = s[i];
-
             int reverseValue = 26 - (c - 'a');
             int position = i + 1;
 
