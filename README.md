@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Queue
@@ -980,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1096-brace-expansion-ii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
