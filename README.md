@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pulkitaverma12/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
